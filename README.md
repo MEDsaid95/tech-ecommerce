@@ -46,7 +46,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Author
 
-[**Marwan Ahal**](https://www.soymarwan.com/)
+[*GHAJGHOUJ MOHAMED SAID*]
 
 
 ## License
